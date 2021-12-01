@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-01T12:03:29 IST" name="Suite" finished-at="2021-12-01T12:03:44 IST" duration-ms="14579">
+    <groups>
+    </groups>
+    <test started-at="2021-12-01T12:03:29 IST" name="Test" finished-at="2021-12-01T12:03:44 IST" duration-ms="14579">
+      <class name="APITest.E_Commerse">
+        <test-method signature="login()[pri:1, instance:APITest.E_Commerse@e7edb54]" started-at="2021-12-01T12:03:29 IST" name="login" finished-at="2021-12-01T12:03:38 IST" duration-ms="8588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="allusers()[pri:2, instance:APITest.E_Commerse@e7edb54]" started-at="2021-12-01T12:03:38 IST" name="allusers" finished-at="2021-12-01T12:03:42 IST" duration-ms="4132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allusers -->
+        <test-method signature="del()[pri:3, instance:APITest.E_Commerse@e7edb54]" started-at="2021-12-01T12:03:42 IST" name="del" finished-at="2021-12-01T12:03:44 IST" duration-ms="1775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- del -->
+      </class> <!-- APITest.E_Commerse -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
